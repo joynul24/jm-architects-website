@@ -292,6 +292,7 @@ footer p {
 
     .facts-content {
         padding: 20px;
+        width: 100%;
     }
 
     .facts-card-container {
